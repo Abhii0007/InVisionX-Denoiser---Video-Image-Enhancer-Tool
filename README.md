@@ -5,11 +5,11 @@ A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-q
 
 | Image Upscaling Window | Video Upscaling Window |
 |--------------|---------------|
-| ![home](images/Home.jpg) | ![inbuilt_editor](images/Home_video_section.jpg) |
+| ![home](images/Home.jpg) | ![video section](images/Home_video_section.jpg) |
 
-| Adding cutouts | Workspace |
+| Inbuilt Overlay Markup & Viewer | Workspace |
 |--------------|---------------|
-| ![adding_cutouts](images/adding_cutouts.jpg) | ![workspace](images/workspace.jpg) |
+| ![Overlay markup](images/inbuilt_overlay_markup.jpg) | ![Model log](images/model_log.jpg) |
 
 
 
