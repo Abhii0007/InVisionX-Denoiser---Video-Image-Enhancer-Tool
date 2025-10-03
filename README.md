@@ -47,7 +47,7 @@ First install Pyside6 in python using:
     
 
 1. Download FFmpeg from the official builds:
-   👉 [[https://www.gyan.dev/ffmpeg/builds/](https://ffmpeg.org/)]([https://www.gyan.dev/ffmpeg/builds/](https://ffmpeg.org/))
+   👉 [FFmpeg Download Page](https://www.ffmpeg.org/download.html)
 
 2. Download the file: **ffmpeg-release-essentials.zip**.
 
