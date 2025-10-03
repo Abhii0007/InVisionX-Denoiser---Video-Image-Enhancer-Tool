@@ -3,7 +3,7 @@ A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-q
 
 ## 📸 Project Insights
 
-| Home | Image Upscaling Window |
+| Image Upscaling Window | Video Upscaling Window |
 |--------------|---------------|
 | ![home](images/Home.jpg) | ![inbuilt_editor](images/Home_video_section.jpg) |
 
