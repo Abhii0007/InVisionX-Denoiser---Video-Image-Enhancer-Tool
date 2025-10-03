@@ -60,20 +60,16 @@ First install Pyside6 in python using:
    * Under **System variables**, select `Path` → **Edit** → **New**.
    * Add:
 
-     ```
-     C:\ffmpeg\bin
-     ```
-   * Save and close.
+         C:\ffmpeg\bin
+     
+           * Save and close.
 
 5. Verify installation in Cmd:
 
-
        ffmpeg -version
-
 
    If you see version info, FFmpeg is installed successfully ✅
 
----
 
 #### 📥 Install OpenCV (Python)
 
@@ -101,6 +97,11 @@ If both return version info, your setup is complete 🚀
 
 
 🧠 About Real-ESRGAN
+This project uses the public **Real-ESRGAN** trained model as backend for image and video-Frames upscaling and denoising.  
+You can find the model repository here: [Real-ESRGAN GitHub](https://github.com/xinntao/Real-ESRGAN)
+
 
 Real-ESRGAN (Real-Enhanced Super-Resolution Generative Adversarial Network) is an AI model designed for real-world image enhancement, capable of removing noise, restoring details, and producing natural high-resolution outputs.
-Bring your images and videos back to life easliy and quickly wih user friendly Interface.
+Bring your images and videos back to life no need to prompt or genreate frames and extract then manuallu upscale and build etc, do this in just single button easliy and quickly with our InVisionX Denoiser user friendly Interface Tool.
+
+
