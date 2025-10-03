@@ -45,10 +45,7 @@ Install dependencies (requirements.txt)
 Run main.py to start the desktop application
 
 ### 🔧 Installation Requirements
-
 This project requires **FFmpeg** (for video processing) and **OpenCV** (for image and video handling). Please follow the steps below to install them.
-
----
 
 #### 📥 Install FFmpeg (Windows)
 First install Pyside6 in python using:
