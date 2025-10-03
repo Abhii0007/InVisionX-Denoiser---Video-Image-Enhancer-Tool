@@ -13,7 +13,7 @@ A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-q
 
 
 
-its a desktop variant application powered by Real-ESRGAN (Real-Enhanced Super-Resolution Generative Adversarial Network) AutoEncoder Model to genreated real high resolution results matches with given
+its a desktop variant application powered by Real-ESRGAN (Real-Enhanced Super-Resolution Generative Adversarial Network) AutoEncoder Model to generate real & high resolution results matches with given
 low resolution image as input.
 
 ✨ Features
