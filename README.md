@@ -1,6 +1,16 @@
 # InVisionX-Denoiser---Video-Image-Enhancer-Tool
 A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-quality image and video upscaling locally with AI-driven denoising.
 
+## 📸 Project Insights
+
+| Home | Image Upscaling Window |
+|--------------|---------------|
+| ![home](images/Home.jpg) | ![inbuilt_editor](images/Home_video_section.jpg) |
+
+| Adding cutouts | Workspace |
+|--------------|---------------|
+| ![adding_cutouts](images/adding_cutouts.jpg) | ![workspace](images/workspace.jpg) |
+
 
 
 its a desktop variant application powered by Real-ESRGAN (Real-Enhanced Super-Resolution Generative Adversarial Network) AutoEncoder Model to genreated real high resolution results matches with given
