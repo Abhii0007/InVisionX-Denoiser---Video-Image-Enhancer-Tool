@@ -7,7 +7,7 @@ A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-q
 |--------------|---------------|
 | ![home](images/Home.jpg) | ![video section](images/Home_video_section.jpg) |
 
-| Inbuilt Overlay Markup & Viewer | Workspace |
+| Inbuilt Overlay Markup & Viewer | Project Log |
 |--------------|---------------|
 | ![Overlay markup](images/inbuilt_overlay_markup.jpg) | ![Model log](images/model_log.jpg) |
 
